@@ -61,8 +61,4 @@ The React app will be accessible at http://localhost:3000.
 ### Deployment
 - Backend: Deployed on Render.
 - Frontend: Deployed on Netlify.
-
-## Screenshots
-![Alt text](screenshots/blood.png "1")
-![Alt text](screenshots/blood1.png "2")
-![Alt text](screenshots/blood2.png "3")
+- here is the deployed link: https://taupe-pastelito-6625e3.netlify.app/
